@@ -6,4 +6,4 @@ dependencies:
   - rdkit
   - pip
   - pip:
-      - -r file:requirements.txt
+      - -r file:https://github.com/punitjain-jp/project/raw/main/requirements.txt
