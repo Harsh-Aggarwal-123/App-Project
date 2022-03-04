@@ -1,6 +1,6 @@
 numpy
 pandas
 streamlit
-pickle
+pickle5
 PIL
 rdkit
