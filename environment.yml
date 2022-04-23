@@ -12,3 +12,4 @@ dependencies:
       - Pillow==8.0.1
       - scikit-learn==0.23.2
       - pickle5
+      - click==8
