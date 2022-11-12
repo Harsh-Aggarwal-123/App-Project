@@ -1,6 +1,6 @@
 name: my_env
 channels:
-  
+  - anaconda
   - conda-forge
 dependencies:
   - python=3.7.0
